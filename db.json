@@ -1,0 +1,32 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama_loket": "Baru Jaya",
+          "alamat": "Surya Kencana baru",
+          "jenis_kelamin": "Perempuan",
+          "no_hp": 8300000
+        },
+        {
+         "d": 2,
+          "nama_loket": "Icha",
+          "alamat": "Surya Kencana",
+          "jenis_kelamin": "Perempuan",
+          "no_hp": 9830000
+        },
+        {
+          "id": 3,
+          "nama_loket": "Puni",
+          "alamat": "Surya Kencana",
+          "jenis_kelamin": "Perempuan",
+          "no_hp": 987300000
+        },
+        {
+          "id": 4,
+          "nama_loket": "Lama Jaya",
+          "alamat": "Surya Kencana",
+          "jenis_kelamin": "Perempuan",
+          "no_hp": 300000
+        }
+      ]
+}
